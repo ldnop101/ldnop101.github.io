@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LDN Blog</title>
+    <link>https://ldnop101.github.io/</link>
+    <description>Recent content on LDN Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 21 Mar 2023 15:09:49 +0800</lastBuildDate>
+    
+        <atom:link href="https://ldnop101.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bitwise Operation</title>
+      <link>https://ldnop101.github.io/post/csie/ccpp/bit-operation/</link>
+      <pubDate>Tue, 21 Mar 2023 15:09:49 +0800</pubDate>
+      
+      <guid>https://ldnop101.github.io/post/csie/ccpp/bit-operation/</guid>
+      
+        <description>&lt;h2 id=&#34;bit-operation&#34;&gt;Bit Operation&lt;/h2&gt;
+&lt;h3 id=&#34;bitwise-in-gcc-build-in-function&#34;&gt;Bitwise in &lt;code&gt;gcc build-in Function&lt;/code&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;__builtin_popcount&lt;/code&gt; used to count bit 1&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;__builtin_ctz&lt;/code&gt; used to count traling 0s&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;__builtin_clz&lt;/code&gt; used to count the leading 0s&lt;/li&gt;
+&lt;/ul&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://ldnop101.github.io/about/</link>
+      <pubDate>Wed, 22 Feb 2023 19:58:52 +0800</pubDate>
+      
+      <guid>https://ldnop101.github.io/about/</guid>
+      
+        <description>Where you are? what is LDN blog? LDNop 101 được tạo ra nhằm thỏa mãn cuộc sống có hơi hướng nội của tôi, nơi đây sẽ là nơi tôi chia sẽ về những câu chuyện xàm lông và những điều hay ho tôi học được.
+LDN là một cái tên đột nhiên xuất hiện trong đầu tôi. LDN là viết tắt của cụm từ Làm Đi Nào, ý tôi là chúng ta hãy bắt tay vào làm ngay lập tức, làm mọi lúc mọi nơi và hãy làm bất cứ khi nào có thể.</description>
+      
+    </item>
+    
+    <item>
+      <title>1523 - Count Odd Numbers in an Interval Range</title>
+      <link>https://ldnop101.github.io/post/csie/leetcode/1501-1600/1523/</link>
+      <pubDate>Mon, 13 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldnop101.github.io/post/csie/leetcode/1501-1600/1523/</guid>
+      
+        <description>&lt;h2 id=&#34;question&#34;&gt;Question:&lt;/h2&gt;
+&lt;p&gt;Given two non-negative integers &lt;code&gt;low&lt;/code&gt; and &lt;code&gt;high&lt;/code&gt;. Return the &lt;code&gt;count of odd numbers&lt;/code&gt; between low and high (inclusive).&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div style=&#34;background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;
+&lt;table style=&#34;border-spacing:0;padding:0;margin:0;border:0;&#34;&gt;&lt;tr&gt;&lt;td style=&#34;vertical-align:top;padding:0;margin:0;border:0;&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; style=&#34;background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code&gt;&lt;span style=&#34;white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34; id=&#34;hl-0-1&#34;&gt;&lt;a style=&#34;outline:none;text-decoration:none;color:inherit&#34; href=&#34;#hl-0-1&#34;&gt;1&lt;/a&gt;
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34; id=&#34;hl-0-2&#34;&gt;&lt;a style=&#34;outline:none;text-decoration:none;color:inherit&#34; href=&#34;#hl-0-2&#34;&gt;2&lt;/a&gt;
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34; id=&#34;hl-0-3&#34;&gt;&lt;a style=&#34;outline:none;text-decoration:none;color:inherit&#34; href=&#34;#hl-0-3&#34;&gt;3&lt;/a&gt;
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34; id=&#34;hl-0-4&#34;&gt;&lt;a style=&#34;outline:none;text-decoration:none;color:inherit&#34; href=&#34;#hl-0-4&#34;&gt;4&lt;/a&gt;
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;padding:0;margin:0;border:0;;width:100%&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; style=&#34;background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    Example 1:
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    Input: low = 3, high = 7
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    Output: 3
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    Explanation: The odd numbers between 3 and 7 are [3,5,7].
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

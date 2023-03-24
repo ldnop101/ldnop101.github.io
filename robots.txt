@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://ldnop101.github.io/sitemap.xml

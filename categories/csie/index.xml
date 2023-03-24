@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CSIE on LDN Blog</title>
+    <link>https://ldnop101.github.io/categories/csie/</link>
+    <description>Recent content in CSIE on LDN Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 21 Mar 2023 15:09:49 +0800</lastBuildDate><atom:link href="https://ldnop101.github.io/categories/csie/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bitwise Operation</title>
+      <link>https://ldnop101.github.io/post/csie/ccpp/bit-operation/</link>
+      <pubDate>Tue, 21 Mar 2023 15:09:49 +0800</pubDate>
+      
+      <guid>https://ldnop101.github.io/post/csie/ccpp/bit-operation/</guid>
+      <description>&lt;h2 id=&#34;bit-operation&#34;&gt;Bit Operation&lt;/h2&gt;
+&lt;h3 id=&#34;bitwise-in-gcc-build-in-function&#34;&gt;Bitwise in &lt;code&gt;gcc build-in Function&lt;/code&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;__builtin_popcount&lt;/code&gt; used to count bit 1&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;__builtin_ctz&lt;/code&gt; used to count traling 0s&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;__builtin_clz&lt;/code&gt; used to count the leading 0s&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
