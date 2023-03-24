@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>LC1501-1600 on LDN Blog</title>
+    <title>LC1501-1600 on LDN-101 Blog</title>
     <link>https://ldnop101.github.io/tags/lc1501-1600/</link>
-    <description>Recent content in LC1501-1600 on LDN Blog</description>
+    <description>Recent content in LC1501-1600 on LDN-101 Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 13 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ldnop101.github.io/tags/lc1501-1600/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 22 Mar 2023 12:40:53 +0800</lastBuildDate><atom:link href="https://ldnop101.github.io/tags/lc1501-1600/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Leetcode 1501 - 1600</title>
+      <link>https://ldnop101.github.io/post/csie/leetcode/1501-1600/about/</link>
+      <pubDate>Wed, 22 Mar 2023 12:40:53 +0800</pubDate>
+      
+      <guid>https://ldnop101.github.io/post/csie/leetcode/1501-1600/about/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>1523 - Count Odd Numbers in an Interval Range</title>
       <link>https://ldnop101.github.io/post/csie/leetcode/1501-1600/1523/</link>
